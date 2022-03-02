@@ -9,7 +9,7 @@ Step 4: To preprocess the data for the analysis, I did...\
 Step 5: I implemented the following machine learning/deep learning algoriths to predict/classify... \
 
 #### This repository includes the following branches:
-1- Data: In this branch you can find the original data, which is about the..., preprocessed data fater balancing the classes..., etc.\
+1- Data: In this branch you can find the raw dataset(s), which is about the..., preprocessed data fater balancing the classes..., etc.\
 2- Code: In the Code branch, you can find jupyter noteboooks to re-run the data \
   a- to clean/preprocess the data \
   b- exploratory data analysis\
